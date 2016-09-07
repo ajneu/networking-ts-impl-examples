@@ -1,0 +1,3 @@
+[submodule "extern/networking-ts-impl"]
+	path = extern/networking-ts-impl
+	url = https://github.com/chriskohlhoff/networking-ts-impl.git
