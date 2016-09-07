@@ -11,6 +11,7 @@ The [Boost Asio Tutorials](http://www.boost.org/doc/libs/release/doc/html/boost_
 
 ```bash
 git clone https://github.com/ajneu/networking-ts-impl-examples.git
+cd networking-ts-impl-examples
 mkdir build
 cd    build
 cmake ..
