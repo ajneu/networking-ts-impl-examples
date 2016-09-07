@@ -19,10 +19,10 @@ make -j4
 
 # run binaries
 ./tutorial/timer1/timer1
-./tutorial/timer1/timer2
-./tutorial/timer1/timer3
-./tutorial/timer1/timer4
-./tutorial/timer1/timer5
+./tutorial/timer2/timer2
+./tutorial/timer3/timer3
+./tutorial/timer4/timer4
+./tutorial/timer5/timer5
 
 # etc.
 ```
