@@ -1,0 +1,5 @@
+add_subdirectory(timer1)
+add_subdirectory(timer2)
+add_subdirectory(timer3)
+add_subdirectory(timer4)
+add_subdirectory(timer5)
