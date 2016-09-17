@@ -28,3 +28,4 @@ find_package (Threads) # found lib is in ${CMAKE_THREAD_LIBS_INIT}
 include_directories(extern/networking-ts-impl/include)
 
 add_subdirectory(tutorial)
+add_subdirectory(work_guard_example)
